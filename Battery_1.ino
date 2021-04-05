@@ -28,7 +28,5 @@ void loop() {
   digitalWrite(greenLed, LOW); //apaga el LED Verde
   digitalWrite(yellowLed, LOW);//apaga el LED Amarillo
   digitalWrite(redLed, LOW);   //apaga el LED Verde
-
-
   
 }
